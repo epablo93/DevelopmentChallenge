@@ -61,7 +61,10 @@
   <ItemGroup>
     <Compile Include="DataTests.cs" />
     <Compile Include="Factories\DummyFormaFactory.cs" />
-    <Compile Include="Formas\FormasTests.cs" />
+    <Compile Include="Formas\CirculoTests.cs" />
+    <Compile Include="Formas\CuadradoTests.cs" />
+    <Compile Include="Formas\TrapecioTests.cs" />
+    <Compile Include="Formas\TrianguloEquilateroTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
